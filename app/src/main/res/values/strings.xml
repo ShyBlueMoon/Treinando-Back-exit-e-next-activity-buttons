@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Treinando Exit e Back buttons</string>
+    <string name="texto_activity_1">Essa é a primeira Activity</string>
+    <string name="clique_aqui_string">Ir para segunda Activity</string>
+    <string name="texto_activity_dois_string">E essa é a segunda Activity!</string>
+    <string name="btn_sair_string">Sair do app</string>
+</resources>
